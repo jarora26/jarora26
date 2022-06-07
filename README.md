@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @jarora26
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-jarora26/jarora26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Janvi Arora
+- 👀 I’m interested in Coding
+- 🌱 I’m currently working as Senior Software Engineer in Product Based Fintech Company.
+- 💞️ I’m looking to collaborate on Angular, ReactJs, Java, C#, .Net Core, Javascript, HTML5, CSS, Azure, AWS.
+- 📫 You can reach me out at https://www.linkedin.com/in/janvi-arora-428bb7183/
