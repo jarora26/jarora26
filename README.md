@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Janvi Arora
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Coding, Playing Cricket, bandminton, table tennis, Dance, Music, Skating, Drawing :) 
 - 🌱 I’m currently working as Senior Software Engineer in Product Based Fintech Company.
 - 💞️ I’m looking to collaborate on Angular, ReactJs, Java, C#, .Net Core, Javascript, HTML5, CSS, Azure, AWS.
 - 📫 You can reach me out at https://www.linkedin.com/in/janvi-arora-428bb7183/
